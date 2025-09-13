@@ -1,0 +1,3 @@
+ItemID,Title,Editor,PublicationDate,Volume,IssueNumber,ISSN
+Z001,OOAD,Melvin Kwan,2011-04-05,10,5,J001
+Z002,Java,Michelle Anne,1988-05-04,25,6,J002

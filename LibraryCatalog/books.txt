@@ -1,0 +1,4 @@
+ItemID,Title,Author,PublicationDate,ISBN,Genre
+A001,Snow White,Anderson,1999-01-12,Fiction,B001
+A002,Harry Potter,Joslyn Anne,1878-01-24,Action,B002
+A003,Ugly Duck,Danniella Alex,1877-05-06,Fiction,B003
